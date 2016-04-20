@@ -1,0 +1,1 @@
+libraryDependencies += "com.github.nscala-time" %% "nscala-time" % "2.12.0"
